@@ -36,10 +36,10 @@ def reverse_array(array)
 end
 
 def kesha_maker(array)
-  ke$ha = []
+  kesha = []
   array.each do |dollar|
     dollar[2] = "$"
-    ke$ha << dollar
+    kesha << dollar
   end
   ke$ha
 end
