@@ -29,5 +29,6 @@ end
 def swap_elements(array)
   array.map do |a|
     array[1] = array[2]
+    array[2] = array[1]
   end
 end
