@@ -32,3 +32,4 @@ def swap_elements(array)
       array[a] = array[2]
   end
 end
+end
