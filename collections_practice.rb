@@ -41,5 +41,5 @@ def kesha_maker(array)
     dollar[2] = "$"
     kesha << dollar
   end
-  ke$ha
+  kesha
 end
